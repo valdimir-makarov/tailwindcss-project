@@ -1,0 +1,48 @@
+.blue{
+    background-color:   #061fe0;
+}
+.btn1{
+    padding: 10px 45px;
+     border-radius:22px;
+      color: aliceblue;
+      font-size: larger;
+
+}
+.nav-bg{
+    background-color:#025464;
+}
+.font-size{      color: aliceblue;
+    font-size: 30px;
+}
+.font-color{
+    color: aliceblue
+}
+.hero-bg{
+    background-color: #000000;
+}
+.text-hero-size{
+     font-weight: 400;
+}
+.hero-back-ground{
+    background-image: url(images/sandip-karangiya-cFecfy52W-w-unsplash.jpg);
+}
+.section-2-img1{
+   min-height: fit-content;
+   
+    max-width: 60%;
+
+}
+.section-2-img2{
+    max-width: 20%;
+}
+ 
+.section-3-text{
+ width: 30%;
+    
+}
+.sec-3-text{
+    color: aliceblue;
+}
+.hero-bg-3{
+    color: rgb(0, 0, 0);
+}
